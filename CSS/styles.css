@@ -154,10 +154,16 @@ body {
 
 
 #feature2{
-    background-image: url(../Images/img5.jpg);
-    background-attachment: fixed;
-    background-size : cover;
+
     padding-bottom: 1rem;
+}
+
+. middle-container2{
+    background-image: url(../Images/img5.jpg);
+
+    background-attachment: fixed;
+
+    background-size : cover;
 }
 
 #feature2 .heading1{
