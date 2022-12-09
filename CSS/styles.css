@@ -155,7 +155,7 @@ body {
 
 #feature2{
     background-image: url(../Images/img5.jpg);
-
+    width: 500px;
     background-attachment: fixed;
 
     background-size : cover;
