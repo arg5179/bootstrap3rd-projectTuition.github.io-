@@ -155,9 +155,9 @@ body {
 
 #feature2{
     background-image: url(../Images/img5.jpg);
-    width: 2000px;
+   
     background-attachment: fixed;
-    height : 1000px;
+   
     background-size : cover;
     padding-bottom: 1rem;
 }
