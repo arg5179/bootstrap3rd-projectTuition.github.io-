@@ -166,7 +166,12 @@ body {
 
 }
 
-
+@media(max-width:1028px){
+    .middle-container2 background-image{
+        width:2250px;
+        height:917px;
+    }
+}
     
 
 
