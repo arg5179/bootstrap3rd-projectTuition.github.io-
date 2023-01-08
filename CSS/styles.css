@@ -170,12 +170,7 @@ body {
 
 }
 
-@media(max-width:1028px){
-    .middle-container2 background-image{
-        width:2250px;
-        height:500px;
-    }
-}
+
     
 
 
@@ -287,4 +282,28 @@ body {
 .bottom-container .id-button:hover{
     color: white;
     background-color: #295e5e;
+}
+
+
+
+/*----------------------------- Media section --------------------------------*/
+
+@media(max-width:1028px){
+
+    .middle-container2 background-image{
+
+        width:2250px;
+
+        height:500px;
+
+    }
+    
+    .site-content{
+        background-size: 100% auto;
+    }
+    
+    . middle-container2{
+        background-size: 100% auto;
+    }
+
 }
